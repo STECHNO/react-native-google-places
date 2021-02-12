@@ -148,7 +148,7 @@ project(':react-native-google-places').projectDir = new File(rootProject.project
 ```groovy
 dependencies {
     ...
-    compile project(':react-native-google-places')
+    implementation project(':react-native-google-places')
 }
 ```
 
